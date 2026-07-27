@@ -1,0 +1,5 @@
+Tenemos unas ofertas excelentes para tu hogar este mes:
+* Fibra 1Gb + Movistar Plus+: Por solo 34,90€/mes (¡Oferta estrella destacada!). Incluye datos móviles ilimitados y todo el cine y fútbol.
+* Tarifa Conectividad Total: Fibra 600Mb + 2 líneas móviles con datos ilimitados por 49,90€/mes.
+* Solo Fibra 300Mb: Para uso diario por 29,90€/mes.
+¿Te interesa que comprobemos la cobertura de tu dirección o prefieres contratar alguna directamente? `; + simulatedSources = [ + { title: "Tarifas de Fibra y Móvil - Movistar España", uri: "https://www.movistar.es/tarifas-fibra-movil" }
